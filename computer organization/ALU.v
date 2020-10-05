@@ -15,7 +15,7 @@ module ALU #(
                     output overflow
                    );
 
-  reg [PWIDTH-1:0] c;
+  wire [PWIDTH-1:0] c;
   
   wire [BWIDTH-1:0] b_complement;
 
