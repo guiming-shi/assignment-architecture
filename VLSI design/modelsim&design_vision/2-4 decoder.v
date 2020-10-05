@@ -19,7 +19,7 @@
 //    <Additional_comments>
 ////////////////////////////////////////////////////////////////////////////////
 
-module 2-4decoder(
+module two_four_decoder(
     input wire Cs,
     input wire A1,
     input wire A0,
